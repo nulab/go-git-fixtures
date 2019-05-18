@@ -13,7 +13,7 @@ import (
 	"gopkg.in/check.v1"
 	"gopkg.in/src-d/go-billy.v4"
 	"gopkg.in/src-d/go-billy.v4/osfs"
-	"gopkg.in/src-d/go-git.v4/plumbing"
+	"github.com/nulab/go-git/plumbing"
 )
 
 var RootFolder = ""
